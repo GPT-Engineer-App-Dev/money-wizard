@@ -5,7 +5,7 @@ import ArticleCard from "../components/ArticleCard";
 
 const Index = () => {
   return (
-    <Box>
+    <Box bg="background">
       <Navbar />
       <Container maxW="container.xl" py={8}>
         <Flex direction={{ base: "column", md: "row" }} spacing={8}>
