@@ -3,7 +3,7 @@ import { Link as RouterLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <Box bg="brand.900" color="white" px={4} py={2}>
+    <Box bg="background" color="white" px={4} py={2}>
       <Flex align="center">
         <Text fontSize="xl" fontWeight="bold">
           Financial Times
